@@ -20,7 +20,7 @@ Antes de executar o projeto, certifique-se de ter o Java Development Kit (JDK) i
    git clone https://github.com/feliperegesde/XADREZ-EM-JAVA-NO-GITBASH.git
 Navegue até o diretório do projeto:
 
-bash
+``bash
 Copiar código
 cd XADREZ-EM-JAVA-NO-GITBASH
 Compile o código:
